@@ -1,1 +1,3 @@
 # coding_network
+
+This project was really challenging at first, but with research and helps with peers, I was able to overcome the challenge. The project was to manage a grocery table. It solves the listing of items and the amount of them. I think i did pretty well with the coding and formatted it correctly and to standard. I think I could consolidate the code better to have a better understanding of it. The most difficult thing that I think was getting the two programs to work together properly. I believe the skills I developed through this program will help me in the future to become a better programmer. I try to always include statements and comments so that my code is easier to read by other programmers.
